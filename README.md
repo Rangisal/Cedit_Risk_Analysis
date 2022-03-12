@@ -8,15 +8,17 @@
 # Results:
 
 - Naive Random Oversampling - the balanced accuracy score and the precision and recall scores as follows
+- 
 
+<img width="716" alt="Naive Random Oversampling" src="https://user-images.githubusercontent.com/93173498/158004536-a4ac84c3-a048-4a5d-9888-2c82e9c9edcf.png">
 
-<img width="960" alt="Naive Random Oversampling" src="https://user-images.githubusercontent.com/93173498/158004353-bfc83274-8437-4131-b7e2-8fa3994e573b.png">
 
 
 - SMOTE Oversampling - the balanced accuracy score and the precision and recall scores as follows
 
 
-<img width="875" alt="SMOTE Oversampling" src="https://user-images.githubusercontent.com/93173498/158004403-e2ad250e-8879-4be7-ae18-bc254b93be0c.png">
+<img width="603" alt="SMOTE Oversampling" src="https://user-images.githubusercontent.com/93173498/158004546-6bdeb190-d32b-4b02-936e-668a291eb9d2.png">
+
 
 
 - Undersampling - the balanced accuracy score and the precision and recall scores as follows
