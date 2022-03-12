@@ -47,6 +47,10 @@
 
 # Summary:
 
-There is a summary of the results (2 pt)
+- Using the knowledge of the imbalanced-learn and scikit-learn libraries,evaluated three machine learning models by using resampling to determine which is better at predicting credit risk. First used the oversampling RandomOverSampler and SMOTE algorithms, and then you’ll use the undersampling ClusterCentroids algorithm. Using these algorithms, resampled the dataset, viewed the count of the target classes, trained a logistic regression classifier, calculated the balanced accuracy score, generate a confusion matrix, and generate a classification report.
+- Using your knowledge of the imbalanced-learn and scikit-learn libraries, used a combinatorial approach of over- and undersampling with the SMOTEENN algorithm to determine if the results from the combinatorial approach are better at predicting credit risk than the resampling algorithms from Deliverable 1. Using the SMOTEENN algorithm, resampled the dataset, viewed the count of the target classes, trained a logistic regression classifier, calculated the balanced accuracy score, generated a confusion matrix, and generated a classification report.
+- Using your knowledge of the imblearn.ensemble library, trained and compared two different ensemble classifiers, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk and evaluate each model. Using both algorithms, resampled the dataset, viewed the count of the target classes, trained the ensemble classifier, calculated the balanced accuracy score, generated a confusion matrix, and generated a classification report.
+- In our first four models the accuracy scores and the recalls are not that high comparing to the last 2 models.
+- 
 
 There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
