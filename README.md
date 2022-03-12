@@ -7,6 +7,13 @@
 
 # Results:
 
+- Naive Random Oversampling
+- SMOTE Oversampling
+- Undersampling
+- Combination (Over and Under) Sampling
+- Balanced Random Forest Classifier
+- Easy Ensemble AdaBoost Classifier
+
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
 
 # Summary:
