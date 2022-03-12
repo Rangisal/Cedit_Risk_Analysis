@@ -8,7 +8,7 @@
 # Results:
 
 - Naive Random Oversampling - the balanced accuracy score and the precision and recall scores as follows
-- 
+
 
 <img width="716" alt="Naive Random Oversampling" src="https://user-images.githubusercontent.com/93173498/158004536-a4ac84c3-a048-4a5d-9888-2c82e9c9edcf.png">
 
